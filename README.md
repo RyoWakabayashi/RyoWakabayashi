@@ -1,16 +1,13 @@
-### Hi there 👋
+# Profile
 
-<!--
-**RyoWakabayashi/RyoWakabayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Status
 
-Here are some ideas to get you started:
+![Ryo Wakabayashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyoWakabayashi&count_private=true&show_icons=true&theme=cobalt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RyoWakabayashi&no-frame=true&theme=juicyfresh&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+## GitHub Streak
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RyoWakabayashi&theme=jolly&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
