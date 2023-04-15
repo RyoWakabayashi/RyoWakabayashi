@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/RyoWakabayashi/RyoWakabayashi/main/profile-summary-card-output/transparent/4-productive-time.svg)
+```
+
+    
