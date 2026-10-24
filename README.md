@@ -7,7 +7,6 @@
 [![Qiita](https://img.shields.io/badge/Qiita-RyoWakabayashi-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/RyoWakabayashi)
 [![note](https://img.shields.io/badge/note-elixir__livebook-41C9B4?style=flat-square&logo=note&logoColor=white)](https://note.com/elixir_livebook)
 [![CLS別府](https://img.shields.io/badge/CLS%E5%88%A5%E5%BA%9C-cls--beppu.com-f08300?style=flat-square)](https://www.cls-beppu.com/)
-![views](https://komarev.com/ghpvc/?username=RyoWakabayashi&label=Profile%20views&color=0e75b6&style=flat-square)
 
 ## What I do
 
